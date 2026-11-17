@@ -133,7 +133,7 @@ The analysis describes patterns and associations within the dataset and does not
 ## 10. Project Files
 
 - `Bike_Sales_Analysis.xlsx` – Excel workbook containing the dataset, working sheet, PivotTables and dashboard.
-- `images/bike-sales-dashboard.png` – Dashboard screenshot.
+-  – Dashboard screenshot.
 
 ## 11. Learning Reference and Acknowledgement
 
